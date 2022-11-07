@@ -1,0 +1,41 @@
+/* #corkboardDiv{
+} */
+
+body{
+  word-wrap:break-word;
+  background-image: url('https://images.pexels.com/photos/5640940/pexels-photo-5640940.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+  background-repeat: no-repeat;
+  background-size: 140%;
+  background-position: center center;
+}
+img{
+  height: 200px;
+}
+
+.hidden{
+  display: none;
+}
+
+.goingBtn{
+  border: 2px solid black;
+  background: lightgray;
+  width: 8rem;
+  padding: 1rem;
+
+}
+
+ul{
+  list-style: none;
+  padding: 0;
+}
+
+li{
+  border: 2px solid black;
+}
+
+.message{
+  background: white;
+  margin: 2rem;
+  padding: 1rem;
+}
+
